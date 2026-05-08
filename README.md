@@ -1,4 +1,4 @@
-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cfbe0268-b34a-4203-921d-c25a4f469502" />
 ---
 ## English
 
@@ -17,7 +17,8 @@ Made manually in FreeCAD 1.1.1.
 
 ## ☕ Support the author
 Free to use. If it saved you time — buy me a coffee 😊
-https://www.donationalerts.com
+
+https://www.donationalerts.com/r/salom_electronics
 ---------------------------------------------------------
 russ:
 # 5631AS — 3-digit 7-segment display 0.56" | KiCad STEP model
@@ -37,9 +38,10 @@ russ:
 
 ## ☕ Поддержать автора
 Модель бесплатная. Если сэкономил время — угости кофе, буду рад 😊
-https://www.donationalerts.com
+
+https://www.donationalerts.com/r/salom_electronics
 -------------------------------------------------------------------
-arab 
+a
 ---
 
 ## العربية
@@ -59,4 +61,4 @@ arab
 
 ## ☕ دعم المؤلف
 مجاني للاستخدام. إذا وفّر لك وقتاً — اشترِ لي قهوة 😊
-https://www.donationalerts.com
+https://www.donationalerts.com/r/salom_electronics
