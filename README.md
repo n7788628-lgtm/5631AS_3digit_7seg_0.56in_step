@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cfbe0268-b34a-4203-921d-c25a4f469502" />
+
 ---
 ## English
 
