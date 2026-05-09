@@ -1,4 +1,5 @@
-<img width="876" height="457" alt="3DIGIT1" src="https://github.com/user-attachments/assets/45e65635-a5df-46ea-bdeb-8a6515b59f51" />
+<img width="785" height="454" alt="7SEG_3DIGIT_56_12inch" src="https://github.com/user-attachments/assets/c1f82cab-380e-4c31-b411-bb1424bb9a4b" />
+
 
 ---
 ## English
@@ -14,7 +15,7 @@ Made manually in FreeCAD 1.1.1.
 - Digit height: 14.2 mm (0.56")
 - Package: 37.8 × 19.0 × 8.0 mm
 - Pin pitch: 2.54 mm
-- Pin count: 11
+- Pin count: 12
 
 ## ☕ Support the author
 Free to use. If it saved you time — buy me a coffee 😊
@@ -35,7 +36,7 @@ russ:
 - Высота цифры: 14.2 мм (0.56")
 - Корпус: 37.8 × 19.0 × 8.0 мм
 - Шаг контактов: 2.54 мм
-- Количество контактов: 11
+- Количество контактов: 12
 
 ## ☕ Поддержать автора
 Модель бесплатная. Если сэкономил время — угости кофе, буду рад 😊
@@ -58,7 +59,7 @@ a
 - ارتفاع الرقم: 14.2 مم (0.56")
 - الحجم: 37.8 × 19.0 × 8.0 مم
 - خطوة الأقطاب: 2.54 مم
-- عدد الأقطاب: 11
+- عدد الأقطاب: 12
 
 ## ☕ دعم المؤلف
 مجاني للاستخدام. إذا وفّر لك وقتاً — اشترِ لي قهوة 😊
